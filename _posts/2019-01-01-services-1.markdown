@@ -1,0 +1,8 @@
+---
+layout: default
+img: loans.jpeg
+category: Services
+title: P2P lending assets overview<br><br><a href="https://p2p.arloesol.com">p2p.arloesol.com</a>
+description: |
+---
+  Get a clear, quick, consistent overview of all your investments in several P2P loan providers : Mintos, Bondora, EstateGuru, Robocash, ViaInvest ... and many more

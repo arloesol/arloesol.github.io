@@ -1,0 +1,8 @@
+---
+layout: default
+img: fintech.jpeg
+category: Services
+title: Consulting services
+description: |
+---
+  Consulting in IT and fintech domains
