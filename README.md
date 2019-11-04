@@ -1,4 +1,4 @@
-# www.arloesol.com landing page
+# www.arloesol.eu landing page
 
 Based on [landing-page-theme from swcool](https://github.com/swcool/landing-page-theme)
 
